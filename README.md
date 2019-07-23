@@ -13,15 +13,15 @@ Move pieces faster using your keyboard on Lichess
 ___________________________
 w     = Moves a pawn forward. <br />
 q     = Take with a pawn to the left <br />
-e     = Take with a pawn to the right
-s     = Queen
-shift = King
-a     = The left knight (without a green square)
-d     = The right knight (with a green square)
-1     = The left rook (without a green square)
-3     = The right rook (with a green square)
-space = Bishops
-(You can change keys to any other keys)
+e     = Take with a pawn to the right <br />
+s     = Queen <br />
+shift = King <br />
+a     = The left knight (without a green square) <br />
+d     = The right knight (with a green square) <br />
+1     = The left rook (without a green square) <br />
+3     = The right rook (with a green square) <br />
+space = Bishops <br />
+(You can change keys to any other keys) <br />
 8. Try this in a game. To move a piece you have to hover your mouse cursor over a square-destination and press a corresponding key (you don't have to click your mouse buttons). For example, hover your mouse cursor over e4 and press "w". 
 
 
