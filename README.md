@@ -27,6 +27,8 @@ d     = The right knight (with a green square) <br />
 1     = The left rook (without a green square) <br />
 3     = The right rook (with a green square) <br />
 space = Bishops <br />
+2     = cansel premoves <br />
+4     = offer rematch <br />
 (You can change keys to any other keys) <br />
 
 8. Try this in a game. To move a piece you have to hover your mouse cursor over a square-destination and press a corresponding key (you don't have to click your mouse buttons). For example, hover your mouse cursor over e4 and press "w". 
@@ -35,3 +37,7 @@ space = Bishops <br />
 ![Keys](https://i.snag.gy/admb3S.jpg)
 There you can change the keys and click "Save"
 
+10. It can be difficult to switch between keys. So there are several possible solutions.
+a. Using a second keyboard as pedals, removing all the keys except two in the middle in this manner: ![Pedals](https://i2.wp.com/www.synthtopia.com/wp-content/uploads/2018/10/usb-foot-switch-computer-keyboard-e1539127171568.jpg)
+b. Heightening two keys (for example, "x" and "v") to press them with the back of the palm. Effectively increasing the number of hand digits to 7.![Heighten keys](https://images-ext-1.discordapp.net/external/u-oklikkCcNSY7SA9554cHD-DKTE_TxMH_g3OVTgxwQ/https/cdn.theatlantic.com/assets/media/img/mt/2018/06/AP_99032503212/lead_720_405.jpg?width=600&height=338)
+c. Mapping some keys to the mouse. ![Mouse mapping](https://i.ytimg.com/vi/duKTSAMomo4/maxresdefault.jpg)
