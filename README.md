@@ -2,7 +2,7 @@
 Move pieces faster using your keyboard on Lichess <br />
 It is a legal way to become faster in ultrabullet
 
-Video example: https://youtu.be/UAExpNbLlIo
+A video example: https://youtu.be/UAExpNbLlIo
 
 Many thanks to Vempele, the author of the original script, from which I took ideas and parts of the code: https://gist.github.com/Vempele/46333e85e33b6d488c3ffb131942272d
 
