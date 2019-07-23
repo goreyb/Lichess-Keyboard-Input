@@ -22,6 +22,10 @@ d     = The right knight (with a green square) <br />
 3     = The right rook (with a green square) <br />
 space = Bishops <br />
 (You can change keys to any other keys) <br />
+
 8. Try this in a game. To move a piece you have to hover your mouse cursor over a square-destination and press a corresponding key (you don't have to click your mouse buttons). For example, hover your mouse cursor over e4 and press "w". 
 
+9. To change the keys, open the script (Tampermonkey icon, Dashboard, KeyboardLichessKeys), and find this part in the beginning: 
+![Keys](https://i.snag.gy/admb3S.jpg)
+There you can change the keys and click "Save"
 
