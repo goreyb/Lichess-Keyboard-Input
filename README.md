@@ -2,6 +2,7 @@
 Move pieces faster using your keyboard on Lichess
 
 Video example: https://youtu.be/UAExpNbLlIo
+
 Many thanks to Vempele, the author of the original script: https://gist.github.com/Vempele/46333e85e33b6d488c3ffb131942272d
 
 # How to use
