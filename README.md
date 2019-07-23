@@ -37,7 +37,8 @@ space = Bishops <br />
 ![Keys](https://i.snag.gy/admb3S.jpg)
 There you can change the keys and click "Save"
 
-10. It can be difficult to switch between keys. So there are several possible solutions.
+10. It can be difficult to switch between keys. <br />
+So there are several possible solutions. <br />
 a. Using a second keyboard as pedals, removing all the keys except two in the middle in this manner: ![Pedals](https://i2.wp.com/www.synthtopia.com/wp-content/uploads/2018/10/usb-foot-switch-computer-keyboard-e1539127171568.jpg)
 b. Heightening two keys (for example, "x" and "v" by gluing something to them) to press them with the back of the palm. Effectively increasing the number of hand digits to 7. <br />
 ![Heighten keys](https://images-ext-1.discordapp.net/external/u-oklikkCcNSY7SA9554cHD-DKTE_TxMH_g3OVTgxwQ/https/cdn.theatlantic.com/assets/media/img/mt/2018/06/AP_99032503212/lead_720_405.jpg?width=600&height=338) <br />
