@@ -1,5 +1,6 @@
 # Lichess-Keyboard-Input
-Move pieces faster using your keyboard on Lichess
+Move pieces faster using your keyboard on Lichess <br />
+It is a legal way to become faster in ultrabullet
 
 Video example: https://youtu.be/UAExpNbLlIo
 
