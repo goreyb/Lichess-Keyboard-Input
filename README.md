@@ -1,5 +1,6 @@
 # Lichess-Keyboard-Input
 Move pieces faster using your keyboard on Lichess
+
 Video example: https://youtu.be/UAExpNbLlIo
 
 
