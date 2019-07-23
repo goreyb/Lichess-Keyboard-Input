@@ -11,8 +11,8 @@ Move pieces faster using your keyboard on Lichess
 6. Create a game against Stockfish on Lichess. 
 7. The default set of keys:
 ___________________________
-w     = Moves a pawn forward.
-q     = Take with a pawn to the left
+w     = Moves a pawn forward. <br />
+q     = Take with a pawn to the left <br />
 e     = Take with a pawn to the right
 s     = Queen
 shift = King
