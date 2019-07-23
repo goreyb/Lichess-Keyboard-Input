@@ -4,7 +4,7 @@ Move pieces faster using your keyboard on Lichess
 
 # How to use
 1. Install Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en ![Install Tampermonkey](https://i.snag.gy/0WiDQN.jpg)
-2. Create a new script: ![Create a new script](https://i.snag.gy/BMwDOF.jpg)
+2. Create a new script: ![Create a new script](https://i.snag.gy/lAQuLH.jpg)
 3. Copy the script from here: https://pastebin.com/64KYHjVY ![Copy the script](https://i.snag.gy/1EzYOC.jpg)
 4. In Tampermonkey delete everything from the new script and paste the code there: ![Paste the script](https://i.snag.gy/3l5fso.jpg)
 5. Click save: ![Save](https://i.snag.gy/4TJ6QS.jpg)
