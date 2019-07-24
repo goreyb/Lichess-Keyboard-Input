@@ -4,7 +4,6 @@
 // @grant    none
 // @run-at document-idle
 // @include /^https://lichess\.org/([a-zA-Z0-9]+(/(white|black).*)?$|analysis|training)
-// @include /^https://lichess\.dev/([a-zA-Z0-9]+(/(white|black).*)?$|analysis|training)
 // The original script and inspiration by Vempele: https://gist.github.com/Vempele/46333e85e33b6d488c3ffb131942272d
 // ==/UserScript==
 
