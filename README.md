@@ -37,7 +37,8 @@ space = Bishops <br />
 ![Keys](https://i.snag.gy/admb3S.jpg)
 There you can change the keys and click "Save"
 
-# 10. It can be difficult to switch between keys. <br />
+# Switching between keys
+It can be difficult to switch between keys. <br />
 So there are several possible solutions. <br />
 a. Using a second keyboard as pedals, removing all the keys except two in the middle in this manner: ![Pedals](https://i2.wp.com/www.synthtopia.com/wp-content/uploads/2018/10/usb-foot-switch-computer-keyboard-e1539127171568.jpg)
 How to build: https://www.youtube.com/watch?v=EGr3lvBtMV0 <br />
