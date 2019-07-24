@@ -22,7 +22,9 @@ roR = "3",   //right rook
 knL = "a",   //left knight
 knR = "d",   //right knight
 biK = " ",   //bishop
-kingK = "Shift";   //king
+kingK = "Shift",   //king
+rmtch = "4",  // offer rematch
+cprm = "2";   //cancel premoves
 
 
 var bparent = $(".cg-wrap")[0];
@@ -737,7 +739,7 @@ var twice;
 document.addEventListener('keydown', function(event) {
 
      const key = event.key;
-    if (key == "2")
+    if (key == cprm)
     {
 cancelPrem();
     }
@@ -754,7 +756,7 @@ cancelPrem();
    // console.log(keys);
     }
 
-      if (key == "4") {
+      if (key == rmtch) {
       document.getElementsByClassName("fbt rematch white")[0].click();
       };
       if (key == biK) {
