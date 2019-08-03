@@ -1,4 +1,6 @@
 # Lichess-Keyboard-Input
+Install quickly: https://chrome.google.com/webstore/detail/lichess-keyboard-input/beaekfhgnpkeaemddboeojhljnjoebfl?hl=en
+
 Move pieces faster using your keyboard on Lichess <br />
 It is a legal way to become faster in ultrabullet
 
