@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Lichess Keyboard Input",
     "description": "Use your keyboard to play chess",
-    "version": "0.0.1.0",
+    "version": "0.0.1.1",
     "icons": {
       "16": "icon16.png",
       "48": "icon48.png",

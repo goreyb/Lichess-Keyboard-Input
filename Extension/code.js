@@ -13,8 +13,8 @@ var cx,cy;
     for (var i=0;i<nameC.length;i++)
     {
         console.log("@");
-            if (nameC[i].innerText[2]!==' ') {
-        sName = nameC[i].innerText.split(" ")[0]
+            if (nameC[i].innerText.indexOf(' ')!==-1) {
+        sName = nameC[i].innerText.split(" ")[1]
 } else {
 let something = nameC[i].innerText;
 do {
@@ -105,7 +105,10 @@ container.id = "container";
 
 
 
- '</div>' +
+ '</div>' 
+ 
+ 
+/*  +
  `
  <div style="display:inline;">
  <input type="checkbox" style="display:inline;" id="drag">
@@ -113,7 +116,7 @@ container.id = "container";
  </input>
  Drag Experimental (smoother moves)
  </div>
- ` 
+ `  */
 
     var button1 = document.getElementById("KeyboardO");
    //  var container = document.createElement("div");
@@ -348,7 +351,7 @@ myInputs[z].style.backgroundColor = "#971400";
 }
 
 
-
+/* 
 let drag = false;
 let dragCheck = document.getElementById('drag')
 if (getCookie("drag")!=="") {drag=true;dragCheck.checked=true;}
@@ -366,7 +369,7 @@ const dragCheckFunc = x =>
 } 
 dragCheck.addEventListener('change', dragCheckFunc)
 
-
+ */
     
 
     document.getElementById("clinput").remove();
@@ -1052,7 +1055,7 @@ keysT.splice(0, 1);
     var movecount = 0;
     function tts(x,y,tx,ty,el=board) {
 
-if (drag===false) {
+if (true||drag===false) {
        tts1(x,y,el);
        tts1(tx,ty,el);
 } else {
@@ -1065,7 +1068,7 @@ if (drag===false) {
         //console.log(performance.now()-time);
         //deselecting experiment
 
-        if (drag===false) {
+        if (true||drag===false) {
          window.setTimeout(function(){
                 var ds = board.children;
                 //console.log(c);
