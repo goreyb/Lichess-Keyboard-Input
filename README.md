@@ -1,3 +1,5 @@
+# This project is not maintained by its author. If you want to contribute, you can either fork this repository and I'll put the link to your repository here, or you can create a pull request, or any other suggestions
+
 # Lichess-Keyboard-Input
 
 How to install: https://lichess.org/forum/team-welcome-keyboard/how-to-install-keyboard-input
