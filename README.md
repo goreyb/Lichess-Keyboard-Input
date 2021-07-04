@@ -1,4 +1,8 @@
-# This project is not maintained by its author. If you want to contribute, you can either fork this repository and I'll put the link to your repository here, or you can create a pull request, or any other suggestions
+**I'm not currently maintaining the KB extensions, since I have other interests and I'm not playing ultrabullet actively and not currently using KB. If you'd like to see new features implemented or bugs to be fixed, please donate here: https://www.patreon.com/ultrachess. I'm going to spend an hour working on the KB extension per every 25$ of donations. You could specify which extension the donation goes to: KB or MultiPremove KB. You could specify a bug / feature which should be given a priority, but keep in mind that some features / bugs may take many days to be implemented / fixed. We could discuss it beforehand. Sometimes I might wait a certain amount of time before implementing something / fixing a bug, because it's more convenient to work in bulk (4 hours per day rather than 1 hour every day), but be assured that I will work 1 hour per every 25$ of donations.**
+
+**You can also contribute by coding or by hiring other coders, and I will merge your pull requests on GitHab**
+
+You can also contribute by coding or by hiring other coders, and I will merge your pull request
 
 # Lichess-Keyboard-Input
 
