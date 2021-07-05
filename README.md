@@ -2,6 +2,8 @@
 
 **You can also contribute by coding or by hiring other coders, and I will merge your pull requests on GitHab**
 
+*Install from WebStore*: https://chrome.google.com/webstore/detail/lichess-keyboard-input/beaekfhgnpkeaemddboeojhljnjoebfl
+
 You can also contribute by coding or by hiring other coders, and I will merge your pull request
 
 # Lichess-Keyboard-Input
