@@ -19,6 +19,8 @@ Many thanks to Vempele, the author of the original script, from which I took ide
 
 The forum discussion: https://lichess.org/forum/lichess-feedback/feature-request-using-keyboard-for-selecting-pieces?page=1
 
+Why KB is fair: https://github.com/Sentero-esp12/Lichess-Keyboard-Input/blob/master/Why%20KB%20is%20fair.md
+
 <!--
 # How to use
 1. Install Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en ![Install Tampermonkey](https://i.snag.gy/0WiDQN.jpg)
