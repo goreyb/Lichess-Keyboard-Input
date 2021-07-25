@@ -9,6 +9,7 @@
 - Premoving a checkmate when the opponent leaves in hope to return later and claim the victory — quite useful.
 - Time scrambles — useful, unless the player already uses KB. KB is already very fast and multiple premoves don't add much speed, on the contrary — might introduce errors. 
 - Fun — multipremoving a checkmate or a beautiful sacrifice during a stream can be very impressive.  
+
 All these usecases are interesting, but not ubiquitous enough to warrant spending a lot of time adding and maintaining this interesting feature. But since it's not a rule to have only one premove, there is no restriction on changing the interface yourself to enable this feature.
 
 **Argument**: KB is unfair because it's significantly faster than other input methods.  
