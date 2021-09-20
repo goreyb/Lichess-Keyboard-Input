@@ -18,15 +18,15 @@ One might counterargue that a chess move consists of two inputs: the initial and
 **Refutation**: it's still the user who generates the moves. Imagine a device that could read your thoughts and transfer them directly into the computer. Now imagine thinking about the king moving up. Then imagine the king moving up and down quickly. Then imagine the king going in circles, imagine quickly thinking about the king going to all nearby squares. You don't have to name the moves, direction, or say the words "king", "square". Just your slightest thought of the king going somewhere will actually move the king there, if the move is legal. Using KB is similar, the difference is that you first have to transfer your thoughts to your hand muscles. So moving your hand whatever way is the same thing you could achieve with your thoughts. The fact that it might be reflex and that the moves are not always deliberate doesn't invalidate the legitimacy of such moves, because your thoughts can be also reflex, and there is nothing invalid about producing an action in a game reflexively. When playing with a mouse, certain quick moves are also produced reflexively. 
 
 **Argument**: multipremoves are unfair because Lichess is a one premove website.  
-**Refutation**: Just because a feature doesn't exist, doesn't make it unfair to obtain it via different means, unless there is a rule that specifically restricts the use of this feature. But Lichess is a one premove website not by reason of a rule that restricts the amount of premoves, but because people who develop Lichess might not think it's worth adding multiple premoves, as one premove + hover is better and simpler. Which is indeed true in most cases.
+**Refutation**: Just because a feature doesn't exist, doesn't make it unfair to obtain it via different means, unless there is a rule that specifically restricts the use of this feature. But Lichess is a one premove website not by reason of a rule that restricts the amount of premoves, but because people who develop Lichess might not think it's worth adding multiple premoves, as one premove + hover is better and simpler.
 
 What are some uses of multiple premoves:
 
-- Premoving a checkmate when the opponent leaves in hope to return later and claim the victory — quite useful.
-- Time scrambles — useful, unless the player already uses KB. KB is already very fast and multiple premoves don't add much speed, on the contrary — might introduce errors.
+- Premoving a checkmate when the opponent leaves in hope to return later and claim the victory.
+- Time scrambles: being able to effectively promote pawns, being able to deliever checkmates with little time.
 - Fun — multipremoving a checkmate or a beautiful sacrifice during a stream can be very impressive.
 
-All these usecases are interesting, but perhaps not ubiquitous enough to warrant spending time adding and maintaining multiple premoves. But since it's not a rule to have only one premove, there is no restriction on changing the interface yourself to enable this feature.
+Here's a request for mutltiple premoves from a few years ago: https://github.com/ornicar/lila/issues/3890
 
 **Argument**: KB is unfair because it's significantly faster than other input methods.  
 **Refutation**: the first point applies. Speed of the input method isn't in the rules of ultrabullet. It wasn't made to be a mouse skill game, it's only due to limitations of our technology that is has been. The speed with which one can input moves, produced by the brain or reflexes, is irrelevant, since any existing limits are there not due to restrictions imposed by a rule, but due to limitations of our technology. 
