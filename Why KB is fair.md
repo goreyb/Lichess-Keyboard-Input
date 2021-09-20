@@ -26,7 +26,7 @@ What are some uses of multiple premoves:
 - Time scrambles: being able to effectively promote pawns, being able to deliever checkmates with little time.
 - Fun — multipremoving a checkmate or a beautiful sacrifice during a stream can be very impressive.
 
-Here's a request for mutltiple premoves from a few years ago: https://github.com/ornicar/lila/issues/3890
+The original argument was that multiple premoves are too complex to implement, and since the use cases are not ubiqutous enough it's not worth it. This might be partially true, since Lichess often listens to requests and implements features that are frequently requested and are going to be used by a significant amount of people. Since most people are satisfied with only one premove, and adding multiple premoves is not an easy task (considering all the bugs that can occur, design questions and many things that may come up which aren't obvious at first), it's therefore probably not worth it for now to add it for the Lichess team. Here's a request for mutltiple premoves from a few years ago: https://github.com/ornicar/lila/issues/3890
 
 **Argument**: KB is unfair because it's significantly faster than other input methods.  
 **Refutation**: the first point applies. Speed of the input method isn't in the rules of ultrabullet. It wasn't made to be a mouse skill game, it's only due to limitations of our technology that is has been. The speed with which one can input moves, produced by the brain or reflexes, is irrelevant, since any existing limits are there not due to restrictions imposed by a rule, but due to limitations of our technology. 
