@@ -43,3 +43,6 @@ All these usecases are interesting, but perhaps not ubiquitous enough to warrant
 
 **Argument**: you have to install a third-party extension to use KB, so it's not fair.  
 **Refutation**: you also have to buy a third-party mouse (Lichess doesn't produce their own mouses). 
+
+**Argument**: KB or Multipremoves are unfair because not everyone knows about them.  
+**Refutation**: that's impossible to make everyone aware of something simultaneously. With every feature there will be someone who doesn't know about it, even if there is an official blog post about it. Therefore it's not reasonable to use this as criteria for fairness, since it's not possible to satisfy this criteria anyway. Unless the feature is forced on everyone and becomes the only default, which is again not reasonable. 
