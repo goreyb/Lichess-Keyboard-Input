@@ -1,4 +1,4 @@
-(function () {
+﻿var innerContent = function () {
   setTimeout(function () {
     console.log(performance.now());
     var cx, cy;
@@ -153,14 +153,16 @@
           }
         }
       };
+      document.addEventListener('keypress', (e) => {
+        if (e.key === ' ' && e.target == document.body) {
+          e.preventDefault();
+        }
+      });
       var KeyDown = function (event) {
         var key = event.key.toLowerCase();
         console.log(key);
         if (key == cprm) {
           cancelPrem();
-        }
-        if (key === ' ' && event.target == document.body) {
-          event.preventDefault();
         }
         if (key == 'f') {
           if (event.target.tagName != 'INPUT') {
@@ -1641,4 +1643,80 @@
       var premove, prerect;
     }
   }, 400);
-})()
+};
+
+if (
+  /^https:\/\/(lichess\.org|lichess\.dev|mskchess\.ru)\/(\w{8}|\w{12})(\/white|\/black)?$/.test(
+    window.location.href
+  )
+) {
+  let nonce, src, text;
+  const observer = new MutationObserver((mutations, observer) => {
+    mutations.forEach((mutation) => {
+      if (
+        mutation.addedNodes[0] &&
+        mutation.addedNodes[0].tagName &&
+        mutation.addedNodes[0].tagName.toLowerCase() === 'script'
+      ) {
+        let script = mutation.addedNodes[0];
+        if (script.src.indexOf('round') !== -1) {
+          src = script.src;
+          script.parentElement.removeChild(script);
+        } else if (
+          script.innerText.indexOf('lichess.load.then(()=>{LichessRound') !== -1
+        ) {
+          nonce = script.getAttribute('nonce');
+          text = script.innerText;
+          script.parentElement.removeChild(script);
+          observer.disconnect();
+          finishLoading();
+        }
+      }
+    });
+  });
+  observer.observe(document.documentElement, {
+    childList: true,
+    subtree: true,
+  });
+
+  const finishLoading = () => {
+    Promise.all([src].map((u) => fetch(u)))
+      .then((responses) => Promise.all(responses.map((res) => res.text())))
+      .then((info) => {
+        let completed;
+        let tIndex = info[0].search(/!\w{1}\.isTr/);
+        if (tIndex !== -1) {
+          let dIndex = info[0].search(/\.isTr/);
+          let numberOfLetters = dIndex - tIndex - 1;
+          completed = info[0].replace(
+            /!\w\.isTr\w{5}/,
+            `(${info[0].substr(
+              tIndex,
+              numberOfLetters + 11
+            )} && (!${info[0].substr(
+              tIndex + 1,
+              numberOfLetters
+            )}.data || ${info[0].substr(
+              tIndex + 1,
+              numberOfLetters
+            )}.data[5] !== '-'))`
+          );
+        } else {
+          completed = info[0];
+        }
+        let firstOne = document.createElement('script');
+        let secondOne = document.createElement('script');
+        firstOne.innerHTML = `console.log(2);${completed}`;
+        secondOne.innerHTML = `console.log(3);${text}`;
+        firstOne.setAttribute('nonce', nonce);
+        firstOne.setAttribute('defer', 'defer');
+        secondOne.setAttribute('nonce', nonce);
+        document.body.appendChild(firstOne);
+        document.body.appendChild(secondOne);
+        let windowScript = document.createElement('script');
+        windowScript.setAttribute('nonce', nonce);
+        windowScript.innerHTML = `(${innerContent.toString()})()`;
+        document.body.appendChild(windowScript);
+      });
+  };
+}
