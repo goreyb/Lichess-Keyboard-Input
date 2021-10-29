@@ -159,6 +159,9 @@
         if (key == cprm) {
           cancelPrem();
         }
+        if (key === ' ' && e.target == document.body) {
+          event.preventDefault();
+        }
         if (key == 'f') {
           if (event.target.tagName != 'INPUT') {
             event.preventDefault();
