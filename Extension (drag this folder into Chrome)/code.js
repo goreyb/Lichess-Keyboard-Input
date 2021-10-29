@@ -1,8 +1,8 @@
-﻿var innerContent = function () {
+(function () {
   setTimeout(function () {
     console.log(performance.now());
     var cx, cy;
-    var doit = false,
+    var doit = 0,
       sName,
       convertionString = MouseEvent;
     if (document.getElementById('user_tag') != undefined) {
@@ -39,7 +39,7 @@
       }
       console.log(name1, sName);
       if (name1 == sName) {
-        doit = true;
+        doit = 1;
       }
     }
     if (
@@ -50,16 +50,19 @@
         'signin button button-empty'
       )[0];
       if (anonc.innerText == 'SIGN IN') {
-        doit = true;
+        doit = 1;
       }
     }
-    if (doit) {
+    if (doit == 1) {
       var cancelPrem = function () {
         tts1(rect.left + 5, rect.bottom - 5);
         tts1(rect.left + 5, rect.bottom - 5);
       };
       var getPremove = function () {
-        if (document.getElementsByClassName('current-premove')[0] != undefined) {
+        if (
+          document.getElementsByClassName('current-premove')[0] != undefined &&
+          document.getElementsByClassName('current-premove')[0] != null
+        ) {
           premove = 1;
         }
       };
@@ -156,7 +159,7 @@
         if (key == cprm) {
           cancelPrem();
         }
-        if (key === ' ' && e.target == document.body) {
+        if (key === ' ' && event.target == document.body) {
           event.preventDefault();
         }
         if (key == 'f') {
@@ -1638,80 +1641,4 @@
       var premove, prerect;
     }
   }, 400);
-};
-
-if (
-  /^https:\/\/(lichess\.org|lichess\.dev|mskchess\.ru)\/(\w{8}|\w{12})(\/white|\/black)?$/.test(
-    window.location.href
-  )
-) {
-  let nonce, src, text;
-  const observer = new MutationObserver((mutations, observer) => {
-    mutations.forEach((mutation) => {
-      if (
-        mutation.addedNodes[0] &&
-        mutation.addedNodes[0].tagName &&
-        mutation.addedNodes[0].tagName.toLowerCase() === 'script'
-      ) {
-        let script = mutation.addedNodes[0];
-        if (script.src.indexOf('round') !== -1) {
-          src = script.src;
-          script.parentElement.removeChild(script);
-        } else if (
-          script.innerText.indexOf('lichess.load.then(()=>{LichessRound') !== -1
-        ) {
-          nonce = script.getAttribute('nonce');
-          text = script.innerText;
-          script.parentElement.removeChild(script);
-          observer.disconnect();
-          finishLoading();
-        }
-      }
-    });
-  });
-  observer.observe(document.documentElement, {
-    childList: true,
-    subtree: true,
-  });
-
-  const finishLoading = () => {
-    Promise.all([src].map((u) => fetch(u)))
-      .then((responses) => Promise.all(responses.map((res) => res.text())))
-      .then((info) => {
-        let completed;
-        let tIndex = info[0].search(/!\w{1}\.isTr/);
-        if (tIndex !== -1) {
-          let dIndex = info[0].search(/\.isTr/);
-          let numberOfLetters = dIndex - tIndex - 1;
-          completed = info[0].replace(
-            /!\w\.isTr\w{5}/,
-            `(${info[0].substr(
-              tIndex,
-              numberOfLetters + 11
-            )} && (!${info[0].substr(
-              tIndex + 1,
-              numberOfLetters
-            )}.data || ${info[0].substr(
-              tIndex + 1,
-              numberOfLetters
-            )}.data[5] !== '-'))`
-          );
-        } else {
-          completed = info[0];
-        }
-        let firstOne = document.createElement('script');
-        let secondOne = document.createElement('script');
-        firstOne.innerHTML = `console.log(2);${completed}`;
-        secondOne.innerHTML = `console.log(3);${text}`;
-        firstOne.setAttribute('nonce', nonce);
-        firstOne.setAttribute('defer', 'defer');
-        secondOne.setAttribute('nonce', nonce);
-        document.body.appendChild(firstOne);
-        document.body.appendChild(secondOne);
-        let windowScript = document.createElement('script');
-        windowScript.setAttribute('nonce', nonce);
-        windowScript.innerHTML = `(${innerContent.toString()})()`;
-        document.body.appendChild(windowScript);
-      });
-  };
-}
+})()
