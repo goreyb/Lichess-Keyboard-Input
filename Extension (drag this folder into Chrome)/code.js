@@ -2,7 +2,7 @@
   setTimeout(function () {
     console.log(performance.now());
     var cx, cy;
-    var doit = 0,
+    var doit = false,
       sName,
       convertionString = MouseEvent;
     if (document.getElementById('user_tag') != undefined) {
@@ -39,7 +39,7 @@
       }
       console.log(name1, sName);
       if (name1 == sName) {
-        doit = 1;
+        doit = true;
       }
     }
     if (
@@ -50,19 +50,16 @@
         'signin button button-empty'
       )[0];
       if (anonc.innerText == 'SIGN IN') {
-        doit = 1;
+        doit = true;
       }
     }
-    if (doit == 1) {
+    if (doit) {
       var cancelPrem = function () {
         tts1(rect.left + 5, rect.bottom - 5);
         tts1(rect.left + 5, rect.bottom - 5);
       };
       var getPremove = function () {
-        if (
-          document.getElementsByClassName('current-premove')[0] != undefined &&
-          document.getElementsByClassName('current-premove')[0] != null
-        ) {
+        if (document.getElementsByClassName('current-premove')[0] != undefined) {
           premove = 1;
         }
       };
