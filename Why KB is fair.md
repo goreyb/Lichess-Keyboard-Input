@@ -110,8 +110,14 @@ you have to install a third-party extension to use KB, so it's not fair.
 ```
 you also have to buy a third-party mouse (Lichess doesn't produce their own mouses). 
 
-**Argument**: KB or Multipremoves are unfair because not everyone knows about them.  
-**Refutation**: This argument presumes that fairness of an input method is dependant on the decisions that people make about this input method. But this is the opposite of how it should be: the decisions should be made based on the fairness of the method itself. I.e. if someone implemented a KB extension, and only used it themselves, without releasing it to the public, this would make the situation unfair for others who don't know about and can't access this input method, but it wouldn't make the input method itself unfair. The decision of the person who hasn't shared the code of this input method would be unfair, but not the input method itself. 
+```
+**Argument**: 
+```
+KB or Multipremoves are unfair because not everyone knows about them.  
+```
+**Refutation**:
+```
+This argument presumes that fairness of an input method is dependant on the decisions that people make about this input method. But this is the opposite of how it should be: the decisions should be made based on the fairness of the method itself. I.e. if someone implemented a KB extension, and only used it themselves, without releasing it to the public, this would make the situation unfair for others who don't know about and can't access this input method, but it wouldn't make the input method itself unfair. The decision of the person who hasn't shared the code of this input method would be unfair, but not the input method itself. 
 
 Since no unfair decisions have been made, and the code and the extensions are available to everyone equally (and if the extensions break or are difficult to install, it's happening to everyone in the same fasion), the situation is therefore fair and the propagation of awareness of the extension's existence is happening in its due time. I.e. it's not possible with the current circumstances for it to propagate faster. Since it's impossible to make everyone aware of something simultaneously, and the speed of the propagation depends on people's decisions, which are currently the best they can get, since no major figure is deliberately preventing this propagation, we can't therefore use this criteria as a criteria for fairness of the circumstances. Unless the feature is forced on everyone and becomes the only default, the propagation is going to happen gradually.
 ```
