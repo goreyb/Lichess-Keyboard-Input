@@ -1,3 +1,5 @@
+[![Test](https://github.com/randomguyreborn/Lichess-Keyboard-Input/actions/workflows/node.js.yml/badge.svg)](https://github.com/randomguyreborn/Lichess-Keyboard-Input/actions/workflows/node.js.yml)
+
 **[KB installation](https://chrome.google.com/webstore/detail/lichess-keyboard-input/beaekfhgnpkeaemddboeojhljnjoebfll)**
 
 **Currently the extensions are not actively maintained and have bugs and may break at any point. I'm not playing ultra that much nowadays, so I'm not working on the extensions anymore, but hopefully someone could continue this work or, perhaps, if someone rich can sponsor me, I will continue working on them myself:
