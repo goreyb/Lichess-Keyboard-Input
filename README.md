@@ -1,3 +1,5 @@
+[![Test](https://github.com/Sentero-esp12/Lichess-Keyboard-Input/actions/workflows/node.js.yml/badge.svg)](https://github.com/Sentero-esp12/Lichess-Keyboard-Input/actions/workflows/node.js.yml)
+
 **[KB installation](https://chrome.google.com/webstore/detail/lichess-keyboard-input/beaekfhgnpkeaemddboeojhljnjoebfll)**
 
 **Currently the extensions are not actively maintained and have bugs and may break at any point. I'm not playing ultra that much nowadays, so I'm not working on the extensions anymore, but hopefully someone could continue this work or, perhaps, if someone rich can sponsor me, I will continue working on them myself:
@@ -16,7 +18,7 @@
 
 **[A video example](https://youtu.be/UAExpNbLlIo)**
 
-Many thanks to Vempele, the author of the [original script](https://gist.github.com/Vempele/46333e85e33b6d488c3ffb131942272d), from which I took ideas and parts of the code 
+Many thanks to [Vempele](https://github.com/Vempele), the author of the [original script](https://gist.github.com/Vempele/46333e85e33b6d488c3ffb131942272d), from which I took ideas and parts of the code 
 
 [The forum discussion](https://lichess.org/forum/lichess-feedback/feature-request-using-keyboard-for-selecting-pieces?page=1)
 
