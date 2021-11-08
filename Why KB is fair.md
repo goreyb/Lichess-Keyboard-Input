@@ -94,11 +94,13 @@ this wouldn't be the same as KB. First, KB doesn't show you the legal moves. Onl
 
 **Argument**:
 ```
-KB is illegal because it's not a standard Lichess feature.  
+KB is illegal because it's not a standard Lichess feature. 
+```
 **Refutation**:
 ```
 ```
 mouses are also not provided by Lichess, one has to buy one themselves. Mouses use drivers and code that are not part of Lichess. There is no requirement for a feature to be natively implemented in Lichess to be legal. 
+```
 ```
 **Argument**: 
 ```
