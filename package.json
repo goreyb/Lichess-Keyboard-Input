@@ -1,0 +1,11 @@
+{
+  "name": "Lichess-Keyboard-Input",
+  "version": "0.0.1.8",
+  "description": "Use your keyboard to play chess",
+  "author": "Sentero-esp12",
+  "main": "code.js",
+  "scripts": {
+    "start": "code.js"
+  },
+  "dependencies": {}
+}
