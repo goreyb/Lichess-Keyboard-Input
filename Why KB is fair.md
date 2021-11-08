@@ -98,10 +98,9 @@ KB is illegal because it's not a standard Lichess feature.
 ```
 **Refutation**:
 ```
-```
 mouses are also not provided by Lichess, one has to buy one themselves. Mouses use drivers and code that are not part of Lichess. There is no requirement for a feature to be natively implemented in Lichess to be legal. 
 ```
-```
+
 **Argument**: 
 ```
 you have to install a third-party extension to use KB, so it's not fair.
@@ -109,7 +108,6 @@ you have to install a third-party extension to use KB, so it's not fair.
 **Refutation**:
 ```
 you also have to buy a third-party mouse (Lichess doesn't produce their own mouses). 
-
 ```
 **Argument**: 
 ```
