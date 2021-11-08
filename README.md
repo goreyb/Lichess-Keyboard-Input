@@ -1,4 +1,4 @@
-[![Test](https://github.com/randomguyreborn/Lichess-Keyboard-Input/actions/workflows/node.js.yml/badge.svg)](https://github.com/randomguyreborn/Lichess-Keyboard-Input/actions/workflows/node.js.yml)
+[![Test](https://github.com/Sentero-esp12/Lichess-Keyboard-Input/actions/workflows/node.js.yml/badge.svg)](https://github.com/Sentero-esp12/Lichess-Keyboard-Input/actions/workflows/node.js.yml)
 
 **[KB installation](https://chrome.google.com/webstore/detail/lichess-keyboard-input/beaekfhgnpkeaemddboeojhljnjoebfll)**
 
