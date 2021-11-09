@@ -1,5 +1,5 @@
 **Argument**:
-```
+> ```
 people have been using mouses to play ultrabullet, or tablets, or phones, and since KB is so different and much faster, it gives an unfair advantage and therefore isn't fair.
 ```
 
