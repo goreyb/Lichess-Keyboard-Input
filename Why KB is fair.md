@@ -7,7 +7,7 @@
 
 > ultrabullet or bullet weren't created or meant to be a mouse skill game. It is only by accident, due to limitations of our input methods. It just so happened that mouses have been the most common input device. Playing with a mouse is not a rule, nor is it a part of the game, it is most common simply due to the fact that there were no alternatives. If a sport is created with a rule, the rule becomes a part of the game, i.e. you cannot use hands in soccer, even though it would be more efficient. Fast chess weren't "created" with such rules, they only inherited the rules of chess, input methods are totally optional. 
 
-> P.S. This argument is not about the time when the rule is / isn't created. It's about whether the game should have a certain rule, based on its purpose. I.e. it's not that the rules cannot be changed once the game has already been created, it's about whether the game's purpose presupposes a certain rule. The reasoning behind why fast chess shouldn't be considered a mouse skill game is discussed in the next paragraph.  
+P.S. This argument is not about the time when the rule is / isn't created. It's about whether the game should have a certain rule, based on its purpose. I.e. it's not that the rules cannot be changed once the game has already been created, it's about whether the game's purpose presupposes a certain rule. The reasoning behind why fast chess shouldn't be considered a mouse skill game is discussed in the next paragraph.  
 
 **Argument**:
 
