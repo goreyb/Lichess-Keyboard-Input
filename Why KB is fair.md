@@ -6,7 +6,7 @@
 **Refutation**: 
 
 > ultrabullet or bullet weren't created or meant to be a mouse skill game. It is only by accident, due to limitations of our input methods. It just so happened that mouses have been the most common input device. Playing with a mouse is not a rule, nor is it a part of the game, it is most common simply due to the fact that there were no alternatives. If a sport is created with a rule, the rule becomes a part of the game, i.e. you cannot use hands in soccer, even though it would be more efficient. Fast chess weren't "created" with such rules, they only inherited the rules of chess, input methods are totally optional. 
-
+>
 > P.S. This argument is not about the time when the rule is / isn't created. It's about whether the game should have a certain rule, based on its purpose. I.e. it's not that the rules cannot be changed once the game has already been created, it's about whether the game's purpose presupposes a certain rule. The reasoning behind why fast chess shouldn't be considered a mouse skill game is discussed in the next paragraph.  
 
 **Argument**:
@@ -18,7 +18,7 @@
 > Shorter time controls and heavier pieces are different things. In the case of heavier pieces we can only see it being introduced for a single purpose: to make weightlifting a part of the game. Therefore it becomes a thing that has been defined by a rule, by agreement. Trying to invent a different method of weightlifting (using exoskeleton, for example) would be breaking rules of the game in question. Unless everyone used exoskeletons; but this would make it a different game, or a subdivision of another game. The previous game (where some other methods of lifting weights are used) would remain, even if everyone started playing the newly created game. The rule (weightlifting as a part of the game) was introduced intentionally and anything that would give an unfair advantage there would be cheating. Same as in football, where one cannot touch the ball with their hands. It's a part of the game, it's been introduced as a rule.
 > 
 > In the case of shorter time controls, it can be argued that a shorter time control has been introduced not to make the game depend on mouse skills, but to make the game depend on faster thinking. Both are important to win in fast chess, but the former could be considered a side effect, stemming from the limitations of our current technology. It is also consistent with the history of chess game duration. Before the internet was invented, almost no one played bullet. When digital input methods were introduced, people started playing online chess and some of the players — shorter time controls. New input methods allowed shortening of the chess game.
-
+>
 > So it could be argued that ultrabullet was added as the next step in reducing the duration of the game and to create a game where fast thinking is more important, similar to how it is with sprinting and distance running. It doesn't diminish longer chess, just creates a new type of game. But, since our input methods can't yet catch up with the speed of thought, the game partially turns into a game of faster input skills, as a side effect. So, by improving our input methods, or choosing completely different input methods that don't calculate moves themselves, we get closer to competing only in faster thinking skills. Once we can just think of the move and it's instantly played, we could say that we reached the point where the speed of thought and input methods have been equalized.
 
 
@@ -29,13 +29,13 @@
 **Refutation**: 
 
 > you still decide on your every move. Let's look at how the mouse can be used in ultrabullet. Let's say that you don't care which move / premove to play: `b4`, `c4`, `d4`, `e4`, `f4`. So you start moving them in turn. You drag from `b2` to `b4`, `c3` (you have a pawn on c3) to `c4` and so on. You drag pawns one after the other. What will decide your move in this case? We could say it's decided by circumstances. For example, at some point when `c4` is premoved, if your opponent makes a move, `c4` will be played. But why? If your opponent had taken a bit longer to play their move, you would have already premoved `d4`, and it would have been played instead. Have you decided on your move then? Or has it been circumstances? In this case you wanted either of your pawns to move to the forth diagonal, and it wasn't important for you which one would. You had a set of moves in mind and you tried all of them as quickly as you could, you have decided on each of them, but only one of them has been played, because of the circumstances. 
-
+>
 > When you swipe with your cursor along the fourth horizontal while pressing `w`, you also decide on your moves, however you do it much quicker. Your moves are still sequential. You don't choose the whole horizontal and let the computer randomly choose a square. Your cursor is hovering over different squares at each point in time. What move will be executed depends on the circumstances, the move is not chosen randomly by a computer algorithm. What move will be played depends on circumstances both when using the mouse and KB. At each point in time, only one move is chosen. Moreover, you have control on when you start and finish pressing `w`.
-
+>
 > Now let's say it's your move, and you need to move some pawn to the fourth diagonal. You swipe across the forth diagonal, and one of your pawns moves there. Let's say some pawns couldn't move, because those moves would be illegal. Could it be said that the computer has chosen a legal move for you? If you play with the mouse and make an illegal move, what will happen? The move won't be played. Now let's say you have very little time and you don't see that one of your pawns can't move, but anyway just in case you decide to quickly move two pawns sequentially, because you understand that if you move one of them, and it doesn't move, having to react to this event and try another move will take more time than trying to move more than one pawn right away. Has your move been randomly chosen by a computer algorithm? Lichess board is programmed to discard illegal moves. They simply don't get played. It doesn't constitute a penalty for you. When you swipe with KB, same as how it is with the mouse, the moves are not chosen for you. Lichess board doesn't decide on a move for you, it simply discards all illegal moves until you input a legal one. When using KB, you don't command to play either of a set of moves. You play them continuously and deliberately (you always have control of when to start and stop swiping, or pressing the key, or the direction of your cursor). Illegal moves are simply discarded (that's how Lichess is functioning) and once a legal move has been chosen by you, it will be played. 
-
+>
 > One might think it's impossible to decide on the moves so quickly, and they would therefore think that this argument is fallacious because it uses technicalities to construct a loophole in the common sense to justify KB usage. The counterargument to that is that you certainly can decide on your moves so quickly and here's how. Imagine you need to type "12345" quickly as a password. You've done it many times and you need these digits to be typed in that exact order. You cannot just press them all at once for the computer to chose the order randomly. You have to actually make sure "1" is pressed first, "2" -- second, and so on. How quickly can you do it? Imagine using both hands, or one hand. Try practicing. After enough practice you will be able to get it right almost each time and extremely quickly. 
-
+>
 > One might counterargue that a chess move consists of two inputs: the initial and the destination square". And therefore you have to use at least two letters. But that is not a rule, it's just a necessity to be able to communicate moves in some cases. You can use "Be3", "e5" notation to communicate moves, and it is as discrete and as legit as UCI. Using KB is similar to using the algebraic chess notation. You choose the piece on your keyboard (B -- bishop) and you choose the square with your cursor (e3). When there are two pieces that can go to the same square, you can choose which one will do so, because twin pieces (knights and rooks) are assigned two keys and one of the pieces is marked with a green square.
 
 
@@ -55,13 +55,13 @@
 **Refutation**: 
 
 > Just because a feature doesn't exist, doesn't make it unfair to obtain it via different means, unless there is a rule that specifically restricts the use of this feature. But Lichess is a one premove website not by reason of a rule that restricts the amount of premoves, but because people who develop Lichess might not think it's worth adding multiple premoves, as one premove + hover is better and simpler.
-
+>
 > What are some uses of multiple premoves:
-
+>
 - Premoving a checkmate when the opponent leaves in hope to return later and claim the victory.
 - Time scrambles: being able to effectively promote pawns, being able to deliever checkmates with little time.
 - Fun — multipremoving a checkmate or a beautiful sacrifice during a stream can be very impressive.
-
+>
 > The original argument was that multiple premoves are too complex to implement, and since the use cases are not ubiqutous enough it's not worth it. This might be partially true, since Lichess often listens to requests and implements features that are frequently requested and are going to be used by a significant amount of people. Since most people are satisfied with only one premove, and adding multiple premoves is not an easy task (considering all the bugs that can occur, design questions and many things that may come up which aren't obvious at first), it's therefore probably not worth it for now to add it for the Lichess team. Here's a request for mutltiple premoves from a few years ago: https://github.com/ornicar/lila/issues/3890
 
 
@@ -116,7 +116,7 @@
 **Refutation**:
 
 > This argument presumes that fairness of an input method is dependant on the decisions that people make about this input method. But this is the opposite of how it should be: the decisions should be made based on the fairness of the method itself. I.e. if someone implemented a KB extension, and only used it themselves, without releasing it to the public, this would make the situation unfair for others who don't know about and can't access this input method, but it wouldn't make the input method itself unfair. The decision of the person who hasn't shared the code of this input method would be unfair, but not the input method itself. 
-
+>
 > Since no unfair decisions have been made, and the code and the extensions are available to everyone equally (and if the extensions break or are difficult to install, it's happening to everyone in the same fasion), the situation is therefore fair and the propagation of awareness of the extension's existence is happening in its due time. I.e. it's not possible with the current circumstances for it to propagate faster. Since it's impossible to make everyone aware of something simultaneously, and the speed of the propagation depends on people's decisions, which are currently the best they can get, since no major figure is deliberately preventing this propagation, we can't therefore use this criteria as a criteria for fairness of the circumstances. Unless the feature is forced on everyone and becomes the only default, the propagation is going to happen gradually.
 
 
