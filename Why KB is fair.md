@@ -13,7 +13,7 @@
 
 > let's imagine someone created a big chess board with heavy chess pieces (the size of a person), and called it "Chess Lifting". Stronger people would now have an advantage. If someone used a forklift to move pieces, that would be unfair and cheating, since anyone with smaller muscles could now beat a bodybuilder. Using KB in ultrabullet is the same, since anyone using KB can easily flag a mouse player.   
 
-Refutation: 
+**Refutation**: 
 
 > Shorter time controls and heavier pieces are different things. In the case of heavier pieces we can only see it being introduced for a single purpose: to make weightlifting a part of the game. Therefore it becomes a thing that has been defined by a rule, by agreement. Trying to invent a different method of weightlifting (using exoskeleton, for example) would be breaking rules of the game in question. Unless everyone used exoskeletons; but this would make it a different game, or a subdivision of another game. The previous game (where some other methods of lifting weights are used) would remain, even if everyone started playing the newly created game. The rule (weightlifting as a part of the game) was introduced intentionally and anything that would give an unfair advantage there would be cheating. Same as in football, where one cannot touch the ball with their hands. It's a part of the game, it's been introduced as a rule.
 > 
