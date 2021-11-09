@@ -9,7 +9,7 @@
 >
 > P.S. This argument is not about the time when the rule is / isn't created. It's about whether the game should have a certain rule, based on its purpose. I.e. it's not that the rules cannot be changed once the game has already been created, it's about whether the game's purpose presupposes a certain rule. The reasoning behind why fast chess shouldn't be considered a mouse skill game is discussed in the next paragraph.
 
-======
+------------------
 
 **Argument**:
 
