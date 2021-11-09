@@ -1,6 +1,6 @@
 **Argument**:
 
-⋅⋅* people have been using mouses to play ultrabullet, or tablets, or phones, and since KB is so different and much faster, it gives an unfair advantage and therefore isn't fair.
+* people have been using mouses to play ultrabullet, or tablets, or phones, and since KB is so different and much faster, it gives an unfair advantage and therefore isn't fair.
 
 
 **Refutation**: 
@@ -11,7 +11,7 @@
 
 **Argument**:
 
-⋅⋅* let's imagine someone created a big chess board with heavy chess pieces (the size of a person), and called it "Chess Lifting". Stronger people would now have an advantage. If someone used a forklift to move pieces, that would be unfair and cheating, since anyone with smaller muscles could now beat a bodybuilder. Using KB in ultrabullet is the same, since anyone using KB can easily flag a mouse player.   
+* let's imagine someone created a big chess board with heavy chess pieces (the size of a person), and called it "Chess Lifting". Stronger people would now have an advantage. If someone used a forklift to move pieces, that would be unfair and cheating, since anyone with smaller muscles could now beat a bodybuilder. Using KB in ultrabullet is the same, since anyone using KB can easily flag a mouse player.   
 
 **Refutation**: 
 
@@ -24,7 +24,7 @@
 
 **Argument**: 
 
-⋅⋅* when using other input methods, you have to decide on your exact move, for example by dragging from `e2` to `e4`, or typying `e4`. With the KB extension you can, for example, swipe along the fourth horizontal while pressing `w`, therefore you don't decide on what your move will be, but the move is randomly chosen (it can be either e4, d4, c4, and you can't know which). Therefore it becomes a Random Mover BOT and therefore KB is unfair.
+* when using other input methods, you have to decide on your exact move, for example by dragging from `e2` to `e4`, or typying `e4`. With the KB extension you can, for example, swipe along the fourth horizontal while pressing `w`, therefore you don't decide on what your move will be, but the move is randomly chosen (it can be either e4, d4, c4, and you can't know which). Therefore it becomes a Random Mover BOT and therefore KB is unfair.
 
 **Refutation**: 
 
@@ -41,7 +41,7 @@
 
 **Argument**:
 
-⋅⋅* king walks (circling your king in a time scramble) are unfair because it's not the user who generates the moves, but the KB extension.  
+* king walks (circling your king in a time scramble) are unfair because it's not the user who generates the moves, but the KB extension.  
 
 **Refutation**:
 
@@ -50,7 +50,7 @@
 
 **Argument**:
 
-⋅⋅* multipremoves are unfair because Lichess is a one premove website.  
+* multipremoves are unfair because Lichess is a one premove website.  
 
 **Refutation**: 
 
@@ -67,7 +67,7 @@
 
 **Argument**: 
 
-⋅⋅* KB is unfair because it's significantly faster than other input methods.  
+* KB is unfair because it's significantly faster than other input methods.  
 
 **Refutation**: 
 
@@ -76,7 +76,7 @@
 
 **Argument**:
 
-⋅⋅* using more than one key at a time is unfair.  
+* using more than one key at a time is unfair.  
 
 **Refutation**: 
 
@@ -85,7 +85,7 @@
 
 **Argument**:
 
-⋅⋅* what if we create a slider with all legal moves, and just move this slider back and forth to produce random moves? This would be the same as KB and would be a random move generator in essense and therefore unfair.  
+* what if we create a slider with all legal moves, and just move this slider back and forth to produce random moves? This would be the same as KB and would be a random move generator in essense and therefore unfair.  
 
 **Refutation**: 
 
@@ -94,7 +94,7 @@
 
 **Argument**:
 
-⋅⋅* KB is illegal because it's not a standard Lichess feature. 
+* KB is illegal because it's not a standard Lichess feature. 
 
 **Refutation**:
 
@@ -103,7 +103,7 @@
 
 **Argument**: 
 
-⋅⋅* you have to install a third-party extension to use KB, so it's not fair.
+* you have to install a third-party extension to use KB, so it's not fair.
 
 **Refutation**:
 
@@ -111,7 +111,7 @@
 
 **Argument**: 
 
-⋅⋅* KB or Multipremoves are unfair because not everyone knows about them.  
+* KB or Multipremoves are unfair because not everyone knows about them.  
 
 **Refutation**:
 
@@ -122,7 +122,7 @@
 
 **Argument**:
 
-⋅⋅* KB is not unfair or illegal but it makes it not fun for many people.  
+* KB is not unfair or illegal but it makes it not fun for many people.  
 
 **Refutation**: 
 
@@ -132,7 +132,7 @@ Then, if we ban the use of KB now, we'll just postpone the dilemma, until those 
 
 **Argument**: 
 
-⋅⋅* KB makes it unfun because it turns endgames into chaotic moves.  
+* KB makes it unfun because it turns endgames into chaotic moves.  
 
 **Refutation**:
 
