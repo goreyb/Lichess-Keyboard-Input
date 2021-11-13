@@ -63,8 +63,7 @@ ___
 
 **Refutation**: 
 
-> Just because a feature doesn't exist, doesn't make it unfair to obtain it via different means, unless there is a rule that specifically restricts the use of this feature. But Lichess is a one premove website not by reason of a rule that restricts the amount of premoves, but because people who develop Lichess might not think it's worth adding multiple premoves, as one premove + hover is better and simpler.
->
+
 > What are some uses of multiple premoves:
 >
 - Premoving a checkmate when the opponent leaves in hope to return later and claim the victory.
